@@ -11,7 +11,7 @@
 ```python
 from coloriz import Color
 
-print(Color.gradient(Color.blue_to_red"""
+print(Color.gradient(Color.blue_to_red,"""
 YOUR ASCII ART
 """))
 
